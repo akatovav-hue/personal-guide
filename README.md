@@ -1,13 +1,15 @@
 # Персональное руководство: Андрей (akatovav-hue)
 
-> Собрано/обновлено скиллом `/personal-guide-render` 2026-05-11.
-> Ступень: Практикующий (2) (PD.FORM.003). Домен: generic.
+> Собрано/обновлено скиллом `/personal-guide-render` 2026-05-11 (re-render с реальным RCS, не fallback).
+> Ступень: Практикующий (2) по PD.FORM.003 — `min(W=4, M1=2, M2=3, M4=3) = 2`.
+> Bottleneck: **M4** (мировоззрение в действии — новая роль ОД ещё не сформирована).
+> Домен: generic. Профиль **асимметричный**: высокий W / низкий M1 — нетипичный для ст. 2.
 
 ## Структура
 
 - `profile.md` — RCS-профиль и ритм
-- `worldview.md` — мировоззренческая фаза и мемы
-- `methods.md` — методы под bottleneck
+- `worldview.md` — мировоззренческая фаза 4 и мемы
+- `methods.md` — методы под bottleneck M4
 - `weekly/` — гипотезы недель
 - `daily/` — тактика дней
 - `history/` — архив прошлых weekly/daily
@@ -24,6 +26,6 @@
 
 ## Источники
 
-- Заготовка ступени: `PACK-personal/.../personal-guide-seeds/stage-2-practicing.md`
+- Заготовка ступени: `PACK-personal/.../personal-guide-seeds/stage-2-practicing.md` (M4-путь)
 - Доменная вставка: `PACK-personal/.../personal-guide-seeds/domain-generic.md`
 - RCS-модель: `PACK-personal/.../formalizations/PD.FORM.089-learner-rcs.md`
