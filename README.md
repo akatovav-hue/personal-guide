@@ -1,18 +1,16 @@
 # Персональное руководство: Андрей (akatovav-hue)
 
-> Собрано/обновлено скиллом `/personal-guide-render` 2026-05-11 (re-render с реальным RCS, не fallback).
-> Ступень: Практикующий (2) по PD.FORM.003 — `min(W=4, M1=2, M2=3, M4=3) = 2`.
-> Bottleneck: **M4** (мировоззрение в действии — новая роль ОД ещё не сформирована).
-> Домен: generic. Профиль **асимметричный**: высокий W / низкий M1 — нетипичный для ст. 2.
+> Собрано скиллом `/personal-guide-render` 2026-05-17.
+> Ступень: **Практикующий** (PD.FORM.003, ст. 2). Домен: **generic**.
 
 ## Структура
 
 - `profile.md` — RCS-профиль и ритм
-- `worldview.md` — мировоззренческая фаза 4 и мемы
-- `methods.md` — методы под bottleneck M4
+- `worldview.md` — мировоззренческая фаза и мемы
+- `methods.md` — методы под bottleneck
 - `weekly/` — гипотезы недель
 - `daily/` — тактика дней
-- `history/` — архив прошлых weekly/daily
+- `history/` — архив прошлых weekly/daily (пусто на первом запуске)
 
 ## Как обновлять
 
@@ -26,6 +24,13 @@
 
 ## Источники
 
-- Заготовка ступени: `PACK-personal/.../personal-guide-seeds/stage-2-practicing.md` (M4-путь)
+- Заготовка ступени: `PACK-personal/.../personal-guide-seeds/stage-2-practicing.md`
 - Доменная вставка: `PACK-personal/.../personal-guide-seeds/domain-generic.md`
 - RCS-модель: `PACK-personal/.../formalizations/PD.FORM.089-learner-rcs.md`
+
+## Снимок Память.Derived на момент сборки
+
+- W = 0 (uncalibrated, исключён из расчёта bottleneck)
+- M1 = 3, M2 = 0, M4 = 4
+- Bottleneck: **M2 (методы саморазвития)** — events_30d = 0
+- Ступень определена engine: STG.Student.Practicing
